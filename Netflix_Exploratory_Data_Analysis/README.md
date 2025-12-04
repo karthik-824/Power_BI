@@ -8,6 +8,7 @@ This project focuses on cleaning, transforming, and analyzing the Netflix titles
 
 **Dataset Source:**  
 A publicly available Kaggle dataset containing **8,807 rows** of Netflix titles, including features such as type, title, director, cast, country, release year, and description.
+https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 
 **Tools Used:**  
 - Microsoft Excel  
@@ -16,9 +17,9 @@ A publicly available Kaggle dataset containing **8,807 rows** of Netflix titles,
 
 ---
 
-## 🧹 Data Cleaning & Transformation (Power Query)
+##  Data Cleaning & Transformation (Power Query)
 
-### 🔍 Data Profiling
+###  Data Profiling
 - Utilized Power Query’s **Column Quality, Column Distribution, and Column Profile** tools to assess dataset health.  
 - Identified:
   - High missing values in the **Director** column (~31%).  
