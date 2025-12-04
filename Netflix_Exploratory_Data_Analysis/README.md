@@ -40,8 +40,8 @@ This project focuses on cleaning, transforming, and analyzing the Netflix titles
 ##  Key Insights
 
 ###  Content Type Breakdown
-- **Movies:** ~68%  
-- **TV Shows:** ~32%  
+- **Movies:** ~70%  
+- **TV Shows:** ~30%  
 
 ###  Duration
 - Most movies were **90 minutes** long.
