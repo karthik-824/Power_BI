@@ -59,7 +59,6 @@ This project focuses on cleaning, transforming, and analyzing the Netflix titles
 - Handling missing values  
 - Splitting and reshaping columns  
 - Fixing CSV errors  
-- Basic M-language logic
 
 ### Data Quality
 - Full dataset profiling  
