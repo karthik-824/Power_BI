@@ -8,6 +8,7 @@ This project focuses on cleaning, transforming, and analyzing the Netflix titles
 
 **Dataset Source:**  
 A publicly available Kaggle dataset containing **8,807 rows** of Netflix titles, including features such as type, title, director, cast, country, release year, and description.
+
 https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 
 **Tools Used:**  
