@@ -1,4 +1,5 @@
 # 🎬 End-to-End Data Analysis of Netflix Movies and TV Shows
+<img width="1919" height="1138" alt="Screenshot 2025-12-04 204603" src="https://github.com/user-attachments/assets/1736f0d3-dbec-4e03-aa11-75bf66db4d8f" />
 
 ##  Project Overview
 This project focuses on cleaning, transforming, and analyzing the Netflix titles dataset to understand what type of content Netflix offers. The dataset from Kaggle contains **8,807 titles** with details like type, director, cast, country, and description.
