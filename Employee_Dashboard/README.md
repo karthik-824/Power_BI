@@ -1,4 +1,4 @@
-#  Employee Attendance & Productivity Dashboard (Power BI)
+#  Employee Attendance & Productivity Dashboard 
 
 <img width="1157" height="651" alt="Screenshot 2025-12-05 120813" src="https://github.com/user-attachments/assets/3364b0f6-533f-4a51-96b2-76ec69e7221b" />
 
@@ -23,7 +23,7 @@ The dashboard tracks attendance for **25 employees**, showing workdays, sick lea
 
 ---
 
-## 📂 Dataset
+##  Dataset
 - Excel attendance matrix (Employees as columns, Dates as rows)  
 - Employee table containing names and profile image URLs  
 
@@ -31,7 +31,7 @@ The dashboard tracks attendance for **25 employees**, showing workdays, sick lea
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 - **Attendance Rate:** ~88% overall  
 - **Workforce Capacity:** ~3,000 total days vs. ~2,000 attended  
 - Calendar visual helps spot patterns such as long sick leave streaks or weekend clusters.  
